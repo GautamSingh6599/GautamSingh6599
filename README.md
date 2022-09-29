@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GautamSingh
 - 👀 I’m interested in Problem solving in Biological, Physical, Chemical and Mathematical Sciences with the help of data and computation.
-- 🌱 I’m currently learning C++ & Python
+- 🌱 C++ & Python
 - 📫 How to reach me - gautam6599123@gmail.com
 <!--- - 💞️ I’m looking to collaborate on --->
 <!---
