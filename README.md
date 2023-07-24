@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GautamSingh
-- 👀 I’m interested in Problem solving in Mathematics and ComputersScience with the help of data.
+- 👀 I’m interested in  Mathematics and Computers Science.
 - 🌱 C++ & Python
 - 📫 How to reach me - gautam6599123@gmail.com
 <!--- - 💞️ I’m looking to collaborate on --->
