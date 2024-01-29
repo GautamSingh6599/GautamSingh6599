@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @GautamSingh
-- 👀 I’m interested in  Mathematics and Computers Science.
-- 🌱 C++ & Python
-- 📫 How to reach me - gautam6599123@gmail.com
-<!--- - 💞️ I’m looking to collaborate on --->
-<!---
-GautamSingh6599/GautamSingh6599 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Gautam Singh, a sophomore at IISER Kolkata. 
+- 👀 My interests include 🤖 Algorithms, 📈 Stochastic Calculus, 💰 Derivatives Pricing, 📈 Alpha Generation, 🏀 Sports Analytics, and 🤖 Machine Learning.
+- 🌱 C++ & Python.  I mostly use 💻 Computational Methods to solve problems in 🧮 Mathematics and 🌌 Physics. 
+- 📫 How to reach me - [gautam6599123@gmail.com](mailto:gautam6599123@gmail.com)
