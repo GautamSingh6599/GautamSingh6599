@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gautam Singh, a sophomore at IISER Kolkata. 
-- 👀 My interests include 🤖 Algorithms, 📈 Stochastic Calculus, 💰 Derivatives Pricing, 📈 Alpha Generation, 🏀 Sports Analytics, and 🤖 Machine Learning.
-- 🌱 C++ & Python.  I mostly use 💻 Computational Methods to solve problems in 🧮 Mathematics and 🌌 Physics. 
+- 👀 My interests include 🤖 Algorithms and 🤖 Machine Learning.
+- 🌱 C++ & Python.  I mostly use 💻 Computational Methods to solve problems in 🧮 Mathematics.
 - 📫 How to reach me - [gautam6599123@gmail.com](mailto:gautam6599123@gmail.com)
